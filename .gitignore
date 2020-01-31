@@ -19,3 +19,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+
+# Release zip
+vue-bootstrap-typeahead.tar.gz
